@@ -2,6 +2,7 @@
 
 * Студент: [Денис Борисов](https://up.htmlacademy.ru/htmlcss-individual/2/user/1997001).
 * Наставник: [Виктория Никитина](https://htmlacademy.ru/profile/id1217273).
+[мой проект седона](https://denchik1213.github.io/1997001-sedona-2/)
 
 ---
 
